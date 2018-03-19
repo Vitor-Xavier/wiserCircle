@@ -1,0 +1,6 @@
+/Users/mfaverom/Projects/xamarinPhoneDialer-master 001/Phoneword/obj/Release/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/mfaverom/Projects/xamarinPhoneDialer-master 001/Phoneword/bin/Release/Phoneword.dll
+/Users/mfaverom/Projects/xamarinPhoneDialer-master 001/Phoneword/obj/Release/Phoneword.dll
+/Users/mfaverom/Projects/xamarinPhoneDialer-master 001/Phoneword/bin/Release/Xamarin.Forms.Core.dll
+/Users/mfaverom/Projects/xamarinPhoneDialer-master 001/Phoneword/bin/Release/Xamarin.Forms.Platform.dll
+/Users/mfaverom/Projects/xamarinPhoneDialer-master 001/Phoneword/bin/Release/Xamarin.Forms.Xaml.dll
